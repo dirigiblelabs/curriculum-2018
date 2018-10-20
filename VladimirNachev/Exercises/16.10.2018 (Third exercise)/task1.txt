@@ -1,0 +1,8 @@
+1.1 Main information for Eclipse Dirigable - Eclipse Dirigible is a Cloud Development Platform providing development tools and runtime environment. It supports full development life-cycle of on-demand applications by leveraging in-system programming models and rapid application development techniques. It is open and free product.
+
+1.2 Motivation for using the platform - The platform is free and provides everything for a developer to build his applications. Eclipse Dirigable is suitable for students - they can write their school projects, test different technologies and scenarios and learn popular programming languages. It is also suitable for the business - people can easily develop, document, and monitor their business applications, taking full advantage of the diverse selection of features and services offered by Eclipse Dirigible.
+
+1.3 Example of what we can do using the platform - The platform Eclipse Dirigable allows us to easily create complex applications. For example, with the help of the platform we can create Bookstore application.
+
+1.4 Description of the Bookstore application - Bookstore application is a web application for managing a single entity called Books. It contains a database definition, a RESTful service and a web page for managing the instances via user interface.
+
