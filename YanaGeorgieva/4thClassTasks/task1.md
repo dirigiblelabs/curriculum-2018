@@ -6,9 +6,9 @@
 " target="_blank"><img src="http://img.youtube.com/vi/D6XEs5Zlav4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-### Prequisitories: You have a non-empty project with a sample database developed
+### Prerequisites: You have a non-empty project with a sample database developed
 
-In this tutorial we will ude the data structures creted in this [tutorial](http://www.youtube.com/watch?feature=player_embedded&v=GwzxjBAhy_4) about how to use data structures in Eclipse Dirigible
+In this tutorial we will use the data structures created in this [tutorial](http://www.youtube.com/watch?feature=player_embedded&v=GwzxjBAhy_4) about how to use data structures in Eclipse Dirigible
 
 1. Go to the **Workspace Explorer** menu and choose to expand the **ScriptingServices** folder and your project folder after that.
 
