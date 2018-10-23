@@ -10,20 +10,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 In this tutorial we will ude the data structures creted in this [tutorial](http://www.youtube.com/watch?feature=player_embedded&v=GwzxjBAhy_4) about how to use data structures in Eclipse Dirigible
 
-
-23
-00:01:48,740 --> 00:01:51,920
-In this video, you saw how to manage the UI of 
-your project in Eclipse Dirigible.
-
-24
-00:01:51,920 --> 00:01:55,560
-You learned how to create an index page and to 
-add it to the main menu of your web page.
-
-
-
-
 1. Go to the **Workspace Explorer** menu and choose to expand the **ScriptingServices** folder and your project folder after that.
 
 2. Afterward right select your entity and choose from the menu **Generate** -> **User Interface For Entity Service**.
