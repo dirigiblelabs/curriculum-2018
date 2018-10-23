@@ -1,4 +1,4 @@
-# This is a step by step tutorial on how to use the user interface of Eclipse Dirigible
+# This is a step by step tutorial on how to manage the UI of your project in Eclipse Dirigible and how to create an index page and to add it to the main menu of your web page
 ## This tutorial is aimed at beginners, but experienced users might find it useful
 
 ### Link to a video tutorial
@@ -6,58 +6,92 @@
 " target="_blank"><img src="http://img.youtube.com/vi/D6XEs5Zlav4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+### Prequisitories: You have a non-empty project with a sample database developed
 
-1. Go to Eclipse Dirigible Web IDE and start off with creating a new empty project.
+In this tutorial we will ude the data structures creted in this [tutorial](http://www.youtube.com/watch?feature=player_embedded&v=GwzxjBAhy_4) about how to use data structures in Eclipse Dirigible
 
-2. Afterward go to the **File** menu located in the upper left corner and choose New and create yourself a new **Project**. You should also give it a name of your liking.
 
-3. You will be given an option to choose from various project templates, but for our purposes we will need a blank application template. Choose Finish to end the creation of the project.
+23
+00:01:48,740 --> 00:01:51,920
+In this video, you saw how to manage the UI of 
+your project in Eclipse Dirigible.
 
-4. Following go and right-click on the new project and choose **New** from the menu and from the next menu choose **Data Structure**.
+24
+00:01:51,920 --> 00:01:55,560
+You learned how to create an index page and to 
+add it to the main menu of your web page.
 
-5. Now it is time to create the database. You will need to select the **Relative Database Table** template from the menu. Click **Next**. On this step you must add all necessary table properties like naming the table and adding the types of columns it shall have. 
 
-6. First off let us create an example column. Let's assume our table is going to hold the essential data of a university student. It will need to have a column for a faculty number, a name (First and Last), an average grade and a column for the birth date. Now let's see how we will add a column for a faculty number (FN for short). Click the Add button and start filling off the fields:
-+ **Name**: ID
-+ **Type**: INTEGER
-+ Check boxes **Not Null?** and **Primary key?**
 
-_You see we have let some field intentionally black. That is because we won't be needing the faculty number to have a maximum length allowed (it is for **VARCHAR**) and because it is a primary key it won't be needing a default value._
 
-For the rest of the columns fill in:
-+ **Name**: FIRST_NAME
-+ **Type**: VARCHAR
-+ **Length**: 30
-+ Check boxes **Not Null?** and **Primary key?**
+1. Go to the **Workspace Explorer** menu and choose to expand the **ScriptingServices** folder and your project folder after that.
 
-------
+2. Afterward right select your entity and choose from the menu **Generate** -> **User Interface For Entity Service**.
 
-+ **Name**: LAST_NAME
-+ **Type**: VARCHAR
-+ **Length**: 30
-+ Check boxes **Not Null?** and **Primary key?**
+3. Select **List Entities** from the template menu and select **Next**.
 
-------
+4. Following go and right select the new project and choose **New** from the menu and from the next menu choose **Data Structure**.
 
-+ **Name**: AVERAGE_GRADE
-+ **Type**: DOUBLE
-+ Check boxes **Not Null?** and **Primary key?**
+5. Choose **Select All** button to include all currently available fields in the UI. Continue by selecting **Next**.
 
-------
+6. Type the name of your file. For example "students.html". Select **Next**.
 
-+ **Name**: BIRTH_DATE
-+ **Type**: DATE
-+ Check boxes **Not Null?** and **Primary key?**
+7. Type your page title and choose **Finish**. For example "Students". You have successfully generated a web page showing a list of entries in the database.
 
-7. After filling all the necessary columns for your table, click **Next** and name your table (let the name be STUDENTS for example). Afterward click **Finish**.
-_For the curious the table definitions are written in **JSON** format.**
+8. Now you will learn how to make an index page. Start by going to the **Workspace Explorer** and expanding the **WebContent** folder. Right choose it and select **New** -> **User Interface**.
 
-8. Now go again to the name of the project and right-click it and choose from the menu **Publish**. Then you will need to click the button **other..** located in the left top part of the screen near the logo. Choose from its menu **Database**. We have successfully published our database and activated the SQL console so we can have a way to view and manipulate our data. But if we try to retrieve any data we will stumble over a rock. That's because our table is empty and we will need to add some sample data in order to see if we have done a good job at modeling it.
+9. Select **Index Page with Main Menu, Header and Footer** from the template menu and select **Next**. Afterward choose **Next** again.
 
-9. So we need sample data. Let's go and create another **Data Structure**. This time from the template menu you shall select **Delimiter Separated Value SAmple Data** and choose **Next**. Now let's find a table with the name **STUDENTS** which holds sample data appropriate for our table and select it. In order to finish click **Next** and **Finish**.
+10. Type your page title and choose **Finish**. For example "University".
 
-10. Then again we need to publish the updated version of the database and activate the SQL console. Let's try to query it with **SELECT * FROM STUDENTS;**. Et voilà! This time we succeeded it retrieving data from the table.
+11. Open the **main.menu** file in a new tab. In order to expand or minimize the tab window, double-click the **main.menu** tab. 
 
-_Hope this tutorial has helped you in how to create basic data structures in Eclipse Dirigible!_
+12. Add the previously generated Students page in the descriptor of the main menu.
+
+For example from this **main.menu**
+
+```sql
+[
+    {
+        "name": "Welcome",
+        "link": "index.html",
+        "subMenu": []
+    },
+    {
+        "name": "Dropdown",
+        "link": "",
+        "subMenu": [
+            {
+                "name": "Form Sample",
+                "link": "sample.html"
+            }
+       ]
+    }
+]
+```
+To this:
+
+```sql
+[
+    {
+        "name": "Welcome",
+        "link": "index.html",
+        "subMenu": []
+    },
+    {
+        "name": "Students",
+        "link": "students.html",
+        "subMenu": []
+    }
+]
+```
+
+12. Save the changes you have just made.
+
+13. Select the **index.html** file. Open the link generated in the **Preview** tab in a separate browser tab or double-click the **Preview** tab.
+
+14. See what the Students page looks like.
+
+_Hope this tutorial has helped you in how to manage the UI of your project in Eclipse Dirigible!_
 
 _Have a nice day!_ :sunny:
