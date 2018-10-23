@@ -1,12 +1,11 @@
+#### 1. Analyze the video tutorial:
 - The target viewers are people who want to learn how to create an index page and to add it to the main menu in Eclipse Dirigible.
 
 - Their level of competence is beginner.
 
 - Their main goals are learning how to create an index page and to add it to the main menu in Eclipse Dirigible.
 
-
-
- Imagine the video is the input sent to you by the responsible developers. Create a short guide based on this tutorial following the writing guildelines in the lecture and handout.
+#### 2.Imagine the video is the input sent to you by the responsible developers. Create a short guide based on this tutorial following the writing guildelines in the lecture and handout.
 
 1. Open Eclipse Dirigible.
 2. On your left in the Workspace Explorer, expand the ScriptingServices folder and your project folder agter that.
