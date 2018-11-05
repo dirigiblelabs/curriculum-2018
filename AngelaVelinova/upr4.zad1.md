@@ -23,10 +23,16 @@ Until now you have generated a web page showing a list of students. Now, you wil
 11. Select the Index PAge option. Then Next.
 12. Type your page title and choose Finish.
 13. Open the main.menu file in a new tab.
-14. If you want to expand the tab window, just double-click the main.menu tab.
+14. If you want to expand the tab window, just double-click the main.menu tab. 
 15. Add the previously generated Students page in the descriptor of the main menu.
 16. If you want to minimize the tab window, double-click the main.menu tab.
-17. Save the changes you have just made.
+17. Save the changes you have just made. 
 18. Select the index.html file.
 19. Open the link in a separate browser tab or double-click the Preview tab.
 20. Check what the Students page looks like.
+
+<!--- Excellent for the first task. 
+The second task: What I miss here is a title. There are a couple of spelling mistakes "agter", UI og your entity. 
+Next, select the List Entities template - no need to use Next here. The numbered steps are enough. 
+"Until now you have generated a web page" this looks great here. You are telling the user what should be the result from his or her work.
+You did a great job doing the tasks. Reread again the sample style guide and revise your texts following the statements there. -->
