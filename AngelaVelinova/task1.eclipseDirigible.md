@@ -1,7 +1,7 @@
 #
 # Eclipse Dirigible
 
-**1.Information** <!--- You can write General Informtion, Overview, What is ... - to be more specific -->
+**1.Information** <!--- You can write General Informtion, Overview, What is ... - to be more specific; No need to be ordered list. Just a section headline is OK. These are not sequential steps. Same comment is applicable for 2. and 3. -->
 
 **Eclipse Dirigible**  is an Integrated Development Environment as a Service (IDEaaS) for dynamic applications. It provides both development tools and runtime environment.
 <p align="center">
