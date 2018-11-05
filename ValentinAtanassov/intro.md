@@ -1,2 +1,2 @@
 
-@vdirigiblelabs/curriculum/alatanassov asdf
+@dirigiblelabs/curriculum/valatanassov asdf
