@@ -34,13 +34,13 @@ Nowadays, providing a full-stack application development platform is not enough.
 
 **Working with data structures.**
 
-**3.1.Link with video tutorial:**
+**3.1.Link with video tutorial:** <!--- No need to use ordered list-->
 
 [youtube](https://www.youtube.com/watch?v=0a1t2BsO8XA)
 
-**3.2. Steps:**
+**3.2. Steps:** <!--- Use ordered list when there is a sequence of the actions; Use unordered list, when there is a choice. Here you need orderd lists; The steps are too many and too lengthy. Remeber the S&G lecture. If the steps are more than 8, think of splitting them into separate procedures. One action, one step.--> 
 
-- We go into the Eclipse Dirigible Web IDE. We&#39;ll start off by creating an empty project.
+- We go into the Eclipse Dirigible Web IDE. We&#39;ll start off by creating an empty project. <!--- Don't use we. Adderess the user directly using imperative "Go to, select, Use, etc." -->
 - We click on New in the workspace explorer on the left and from the dropdown menu select Project.
 - In the new project wizard we give our project the name &quot;nameday&quot; as that&#39;s what we&#39;re going to use it for. Click next.
 - We can select one of the predefined project templates, but as we won&#39;t be needing that, we select Black application and click Finish.
