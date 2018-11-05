@@ -1,7 +1,7 @@
 #
 # Eclipse Dirigible
 
-**1.Information**
+**1.Information** <!--- You can write General Informtion, Overview, What is ... - to be more specific -->
 
 **Eclipse Dirigible**  is an Integrated Development Environment as a Service (IDEaaS) for dynamic applications. It provides both development tools and runtime environment.
 <p align="center">
