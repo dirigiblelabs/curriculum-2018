@@ -1,2 +1,0 @@
-
-@dcurriculum/valatanassov asdf
