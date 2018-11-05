@@ -1,2 +1,2 @@
 
-@valatanassov asdf
+@vdirigiblelabs/curriculum/alatanassov asdf
