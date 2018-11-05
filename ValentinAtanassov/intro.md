@@ -3,7 +3,7 @@
 *item
 //comment
 * itemm 1 //this is ordered list//
-* item 2 [comment]
+* item 2 [comment] <!--- text -->
 
 
 
