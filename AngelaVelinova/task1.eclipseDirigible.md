@@ -14,7 +14,7 @@
 
 From the end user&#39;s perspective (developer), Dirigible runs directly in the browser, therefore does not require any downloads or installations.
 
-From the service provider&#39;s perspective (PaaS/SaaS), Dirigible packs all required components in a self-contained software bundle that can be deployed in any Java-based web server, such as Tomcat, Jetty, JBoss.
+From the service provider&#39;s perspective (PaaS/SaaS) <!--- What is this? Always write the abbriviation in full at first mentioning. You can't be sure that the reader knows it.-->, Dirigible packs all required components in a self-contained software bundle that can be deployed in any Java-based web server, such as Tomcat, Jetty, JBoss.
 
 Dirigible supports access to RDBMS via JDBC. Currently supported versions for RDBMS are HANA, MaxDB, Sybase ASE, PostgreSQL, MySQL, H2, and Derby.
 
