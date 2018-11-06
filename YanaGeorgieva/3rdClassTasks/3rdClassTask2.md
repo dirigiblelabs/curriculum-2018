@@ -49,6 +49,8 @@ For the rest of the columns fill in:
 + **Type**: DATE
 + Check boxes **Not Null?** and **Primary key?**
 
+------
+
 7. After filling all the necessary columns for your table, select **Next** and name your table (let the name be STUDENTS for example). Afterward click **Finish**.
 _For the curious the table definitions are written in **JSON** format._
 
