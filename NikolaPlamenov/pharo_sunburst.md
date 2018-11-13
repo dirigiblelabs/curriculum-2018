@@ -8,7 +8,7 @@
 
 ## Static PNG file
 
-<img src="DirigibleRuntimeStack.png" alt="Dirigible Runtime Stack" width="400"/>
+<img src="DirigibleRuntimeStack.png" alt="Dirigible Runtime Stack" width="900"/>
 
 ## View the pre-built plot locally
 
