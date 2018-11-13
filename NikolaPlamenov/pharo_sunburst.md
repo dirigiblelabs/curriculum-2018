@@ -6,7 +6,11 @@
 
 * Roassal
 
-## View the pre-built plot
+## Static PNG file
+
+<img src="DirigibleRuntimeStack.png" alt="Dirigible Runtime Stack" width="400"/>
+
+## View the pre-built plot locally
 
 Download the [graphics library][roassal] and [HTML root file][sunburst].
 
