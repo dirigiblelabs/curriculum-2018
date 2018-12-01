@@ -14,7 +14,7 @@
 
 ## View the dynamic plot
 
-Download the [graphics library][roassal] and [HTML root file][sunburst].
+Check out the online [preview][sunburst_online] or download the [graphics library][roassal] and [HTML root file][sunburst] for offline exploration.
 
 ## Raw source code
 
@@ -90,3 +90,4 @@ b view.
 
    [roassal]: <roassal.js>
    [sunburst]: <dirigible_sunburst.html>
+   [sunburst_online]: <http://htmlpreview.github.io/?https://github.com/dirigiblelabs/curriculum-2018/blob/master/NikolaPlamenov/SimpleGraphic/dirigible_sunburst.html>
