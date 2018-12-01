@@ -1,1 +1,0 @@
-﻿![Alt](https://mail.google.com/mail/u/0?ui=2&ik=bc631e1f62&attid=0.1&permmsgid=msg-a:r-622786909620740281&view=fimg&realattid=f_jp5xyz6c0&disp=thd&attbid=ANGjdJ-fMXnx84V6HoU--ld8rJv1GM9VN3XAEP9UkHJfJwzPgevTI3WMCN2SwtrYsWIGa4NYTLwGzMG6X34lsa_Y9fcQII8Uy93Y_BwBo7-NF7oyvz-fd-rjSfQEWRs&ats=2524608000000&sz=w1366-h626 =811x456)
