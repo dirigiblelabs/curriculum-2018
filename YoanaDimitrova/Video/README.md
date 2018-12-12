@@ -1,4 +1,4 @@
-# Here you can find the first homework for the coure Software documentation - Simple graphics exercises.
+# Here you can find the second homework for the coure Software documentation - Video.
 
 The task is [Scheduled Job](http://www.dirigible.io/samples/complex_job_console.html).
 
