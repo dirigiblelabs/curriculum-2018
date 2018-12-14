@@ -1,0 +1,1308 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "width" : 1280.0,
+  "height" : 720.0,
+  "version" : "2.0",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "18.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "C:\\Users\\ElitsaMilusheva\\Desktop\\10-Ways-to-Be-More-Productive-At-Work.jpg",
+      "rect" : [0, 0, 1280, 720],
+      "lastMod" : "20181214T143107",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1280, 720],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "src" : "C:\\Users\\ElitsaMilusheva\\Desktop\\як-планувати-день.jpg",
+      "rect" : [0, 0, 690, 420],
+      "lastMod" : "20181214T143117",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 690, 420],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "src" : "C:\\Users\\ElitsaMilusheva\\Desktop\\images_softDOC.jpg",
+      "rect" : [0, 0, 257, 196],
+      "lastMod" : "20181214T145314",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 257, 196],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "src" : "C:\\Users\\ElitsaMilusheva\\Desktop\\imagevvzvzs.png",
+      "rect" : [0, 0, 225, 225],
+      "lastMod" : "20181214T154000",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 225, 225],
+          "sampleRate" : 0,
+          "bitDepth" : 8,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 5,
+      "src" : "C:\\Users\\ElitsaMilusheva\\Desktop\\1 kauBinmv1CygIXKfE8eVYg.png",
+      "rect" : [0, 0, 2000, 950],
+      "lastMod" : "20181214T154502",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 2000, 950],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 6,
+      "src" : "C:\\Users\\ElitsaMilusheva\\Desktop\\blog-tasks.png",
+      "rect" : [0, 0, 350, 250],
+      "lastMod" : "20181214T154746",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 350, 250],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 7,
+      "src" : "C:\\Users\\ElitsaMilusheva\\Desktop\\strategic-Mindset.jpg",
+      "rect" : [0, 0, 400, 267],
+      "lastMod" : "20181214T160412",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 400, 267],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 8,
+      "src" : "C:\\Users\\ElitsaMilusheva\\Desktop\\paper-note-book-with-to-do-list-in-cartoon-style-vector-13701603.jpg",
+      "rect" : [0, 0, 1000, 1080],
+      "lastMod" : "20181214T154434",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1000, 1080],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 9,
+      "src" : "C:\\Users\\ElitsaMilusheva\\Desktop\\task-management.png",
+      "rect" : [0, 0, 400, 400],
+      "lastMod" : "20181214T174424",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 400, 400],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 10,
+      "src" : "C:\\Users\\ElitsaMilusheva\\Desktop\\ingsgsgsdex.jpg",
+      "rect" : [0, 0, 275, 183],
+      "lastMod" : "20181214T174850",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 275, 183],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 11,
+      "src" : "C:\\Users\\ElitsaMilusheva\\Downloads\\bensound-summer.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20181214T181816",
+      "sourceTracks" : [
+        {
+          "range" : [0, 2174432500],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    }
+  ],
+  "timeline" : {
+    "id" : 12,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "duration" : 37.7333333333333,
+          "title" : "",
+          "type" : "",
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 13,
+                    "_type" : "IMFile",
+                    "src" : 6,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "blog-tasks"
+                    },
+                    "parameters" : {
+                      "translation0" : -4.36273239756702e-11,
+                      "translation1" : 7.44400097119069e-11,
+                      "scale0" : 3.99368333333333,
+                      "scale1" : 3.99368333333333,
+                      "opacity" : 0.865
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "ColorAdjustment",
+                          "category" : "categoryVisualEffects",
+                          "parameters" : {
+                            "brightness" : 1.0,
+                            "contrast" : 3.21875,
+                            "saturation" : 0.570000000000001
+                          }
+                        }
+                    ],
+                    "start" : 0,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-opacity" : 1.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 14,
+                    "_type" : "IMFile",
+                    "src" : 8,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "paper-note-book-with-to-do-list-in-cartoon-style-vector-13701603"
+                    },
+                    "parameters" : {
+                      "translation0" : 3.01785263445709e-11,
+                      "translation1" : -331.200000000199,
+                      "scale0" : 1.28000000000004,
+                      "scale1" : 1.28000000000004
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 150,
+                    "duration" : 532,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 0.666666666666667,
+                      "default-scale1" : 0.666666666666667,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 15,
+                    "_type" : "IMFile",
+                    "src" : 7,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "strategic-Mindset"
+                    },
+                    "parameters" : {
+                      "translation0" : 60.037453183448,
+                      "translation1" : -107.275000000013,
+                      "scale0" : 3.50018726591813,
+                      "scale1" : 3.50018726591813
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 682,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 16,
+                    "_type" : "IMFile",
+                    "src" : 9,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "task-management"
+                    },
+                    "parameters" : {
+                      "translation0" : -1.32615696202265e-10,
+                      "translation1" : -28.5714285714642,
+                      "scale0" : 1.65714285714328,
+                      "scale1" : 1.65714285714328
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 832,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 17,
+                    "_type" : "IMFile",
+                    "src" : 10,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "ingsgsgsdex"
+                    },
+                    "parameters" : {
+                      "translation0" : 4.62931500939016e-06,
+                      "translation1" : 1.22852839012921e-11,
+                      "scale0" : 4.65454542087763,
+                      "scale1" : 4.65454542087763
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 982,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : -0.5,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 18,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "basic",
+                      "height" : 138.89990089199,
+                      "width" : 2998.48101265881,
+                      "word-wrap" : 1.0,
+                      "horizontal-alignment" : "center",
+                      "text" : "How to be more productive?",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 96.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":26,"rangeStart":0,"value":"(6,5,5,255)","valueType":"color"},{"name":"strikethrough","rangeEnd":26,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":26,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontItalic","rangeEnd":26,"rangeStart":0,"value":0,"valueType":"int"},{"name":"underline","rangeEnd":26,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":26,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontSize","rangeEnd":26,"rangeStart":0,"value":77,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -31.1824914346612,
+                      "translation1" : 248.764568357433,
+                      "scale0" : 0.948308270676882,
+                      "scale1" : 0.948308270676882
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "DropShadow",
+                          "category" : "categoryVisualEffects",
+                          "parameters" : {
+                            "angle" : 5.49778714378214,
+                            "blur" : 10.0,
+                            "color-alpha" : 1.0,
+                            "color-blue" : 0.1216,
+                            "color-green" : 0.1216,
+                            "color-red" : 0.1216,
+                            "enabled" : 1,
+                            "offset" : 10.0,
+                            "opacity" : 0.4
+                          }
+                        }
+                    ],
+                    "start" : 0,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AppliedThemeId" : "",
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-VAlign" : "center",
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 19,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "basic",
+                      "height" : 204.285714285719,
+                      "width" : 794.285714285632,
+                      "word-wrap" : 1.0,
+                      "horizontal-alignment" : "center",
+                      "text" : "1.Be Strategic   ",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 96.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "time" : 0,
+                            "value" : [{"name":"fontItalic","rangeEnd":17,"rangeStart":0,"value":0,"valueType":"int"},{"name":"strikethrough","rangeEnd":17,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":17,"rangeStart":0,"value":96,"valueType":"double"},{"name":"fgColor","rangeEnd":17,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"underline","rangeEnd":17,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":17,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontWeight","rangeEnd":17,"rangeStart":0,"value":400,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -113.928571428639,
+                      "translation1" : 214.642857142836
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "DropShadow",
+                          "category" : "categoryVisualEffects",
+                          "parameters" : {
+                            "angle" : 5.49778714378214,
+                            "blur" : 10.0,
+                            "color-alpha" : 1.0,
+                            "color-blue" : 0.1216,
+                            "color-green" : 0.1216,
+                            "color-red" : 0.1216,
+                            "enabled" : 1,
+                            "offset" : 10.0,
+                            "opacity" : 0.4
+                          }
+                        },
+                        {
+                          "_type" : "GenericBehaviorEffect",
+                          "effectName" : "jumpAndFall",
+                          "start" : 0,
+                          "duration" : 150                        ,
+                          "in" : {
+                            "attributes" : {
+                              "name" : "bounceIn",
+                              "type" : 1,
+                              "characterOrder" : 6,
+                              "offsetBetweenCharacters" : "5/2",
+                              "suggestedDurationPerCharacter" : "45/2",
+                              "overlapProportion" : "-1/5",
+                              "movement" : 29,
+                              "springDamping" : 5.0,
+                              "springStiffness" : 50.0,
+                              "bounceBounciness" : 0.4
+                            },
+                            "parameters" : {
+                              "direction" : {
+                                "type" : "int",
+                                "valueBounds" : {
+                                  "minValue" : 0,
+                                  "maxValue" : 3,
+                                  "defaultValue" : 1
+                                },
+                                "uiHints" : {
+                                  "userInterfaceType" : 2,
+                                  "unitType" : 0
+                                },
+                                "keyframes" : [
+                                  {
+                                    "time" : 0,
+                                    "value" : 1,
+                                    "duration" : 0
+                                  }
+                                ]
+                              }
+                            }
+                          
+                          },
+                          "center" : {
+                            "attributes" : {
+                              "name" : "jump",
+                              "type" : 1,
+                              "characterOrder" : 6,
+                              "offsetBetweenCharacters" : "12/5",
+                              "secondsPerLoop" : 1,
+                              "numberOfLoops" : -1,
+                              "delayBetweenLoops" : 50,
+                              "offsetBetweenCharacters" : "12/5"
+                            },
+                            "parameters" : {
+                              "jump" : {
+                                "type" : "double",
+                                "defaultValue" : 60.0,
+                                "valueBounds" : {
+                                  "minValue" : 0.0,
+                                  "maxValue" : 500.0,
+                                  "defaultValue" : 60.0
+                                },
+                                "uiHints" : {
+                                  "userInterfaceType" : 1,
+                                  "unitType" : 0
+                                }
+                              }
+                            }
+                          
+                          },
+                          "out" : {
+                            "attributes" : {
+                              "name" : "drop",
+                              "type" : 1,
+                              "characterOrder" : 6,
+                              "offsetBetweenCharacters" : "5/2",
+                              "suggestedDurationPerCharacter" : 15,
+                              "overlapProportion" : "1/5",
+                              "movement" : 7,
+                              "springDamping" : 5.0,
+                              "springStiffness" : 50.0,
+                              "bounceBounciness" : 0.45
+                            },
+                            "parameters" : {
+                              "direction" : {
+                                "type" : "int",
+                                "valueBounds" : {
+                                  "minValue" : 0,
+                                  "maxValue" : 3,
+                                  "defaultValue" : 3
+                                },
+                                "uiHints" : {
+                                  "userInterfaceType" : 2,
+                                  "unitType" : 0
+                                },
+                                "keyframes" : [
+                                  {
+                                    "time" : 0,
+                                    "value" : 3,
+                                    "duration" : 0
+                                  }
+                                ]
+                              }
+                            }
+                          
+                          }
+                        }
+                    ],
+                    "start" : 682,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-VAlign" : "center",
+                      "default-rotation2" : 0.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 20,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "basic",
+                      "height" : 140.683761862777,
+                      "width" : 755.53342856222,
+                      "word-wrap" : 1.0,
+                      "horizontal-alignment" : "center",
+                      "text" : "2.Don't Multitask ",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 96.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "time" : 0,
+                            "value" : [{"name":"underline","rangeEnd":18,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":18,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontSize","rangeEnd":18,"rangeStart":0,"value":96,"valueType":"double"},{"name":"fontItalic","rangeEnd":18,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":18,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontWeight","rangeEnd":18,"rangeStart":0,"value":400,"valueType":"int"},{"name":"strikethrough","rangeEnd":18,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -277.498681069045,
+                      "translation1" : 232.138688206789,
+                      "rotation2" : 0.155649754781319
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "DropShadow",
+                          "category" : "categoryVisualEffects",
+                          "parameters" : {
+                            "angle" : 5.49778714378214,
+                            "blur" : 10.0,
+                            "color-alpha" : 1.0,
+                            "color-blue" : 0.1216,
+                            "color-green" : 0.1216,
+                            "color-red" : 0.1216,
+                            "enabled" : 1,
+                            "offset" : 10.0,
+                            "opacity" : 0.4
+                          }
+                        },
+                        {
+                          "_type" : "GenericBehaviorEffect",
+                          "effectName" : "reveal",
+                          "start" : 0,
+                          "duration" : 150                        ,
+                          "in" : {
+                            "attributes" : {
+                              "name" : "reveal",
+                              "type" : 1,
+                              "characterOrder" : 7,
+                              "offsetBetweenCharacters" : "3/2",
+                              "suggestedDurationPerCharacter" : 22,
+                              "overlapProportion" : 0,
+                              "movement" : 16,
+                              "springDamping" : 5.0,
+                              "springStiffness" : 50.0,
+                              "bounceBounciness" : 0.45
+                            },
+                            "parameters" : {
+                              "direction" : {
+                                "type" : "int",
+                                "valueBounds" : {
+                                  "minValue" : 0,
+                                  "maxValue" : 3,
+                                  "defaultValue" : 0
+                                },
+                                "uiHints" : {
+                                  "userInterfaceType" : 2,
+                                  "unitType" : 0
+                                },
+                                "keyframes" : [
+                                  {
+                                    "time" : 0,
+                                    "value" : 0,
+                                    "duration" : 0
+                                  }
+                                ]
+                              }
+                            }
+                          
+                          },
+                          "center" : {
+                            "attributes" : {
+                              "name" : "reveal",
+                              "type" : 1,
+                              "characterOrder" : 2,
+                              "offsetBetweenCharacters" : "51/10",
+                              "secondsPerLoop" : "233/100",
+                              "numberOfLoops" : -1,
+                              "delayBetweenLoops" : 15,
+                              "offsetBetweenCharacters" : "51/10"
+                            },
+                            "parameters" : {
+                              "movement" : {
+                                "type" : "int",
+                                "valueBounds" : {
+                                  "minValue" : 0,
+                                  "maxValue" : 31,
+                                  "defaultValue" : 0
+                                },
+                                "uiHints" : {
+                                  "userInterfaceType" : 4,
+                                  "unitType" : 0
+                                },
+                                "keyframes" : [
+                                  {
+                                    "time" : 0,
+                                    "value" : 0,
+                                    "duration" : 0
+                                  }
+                                ]
+                              },
+                              "opacity" : {
+                                "type" : "double",
+                                "defaultValue" : 0.45,
+                                "valueBounds" : {
+                                  "minValue" : 0.0,
+                                  "maxValue" : 1.0,
+                                  "defaultValue" : 0.45
+                                },
+                                "uiHints" : {
+                                  "userInterfaceType" : 1,
+                                  "unitType" : 1
+                                }
+                              }
+                            }
+                          
+                          },
+                          "out" : {
+                            "attributes" : {
+                              "name" : "reveal",
+                              "type" : 1,
+                              "characterOrder" : 7,
+                              "offsetBetweenCharacters" : "3/2",
+                              "suggestedDurationPerCharacter" : 17,
+                              "overlapProportion" : "1/2",
+                              "movement" : 6,
+                              "springDamping" : 5.0,
+                              "springStiffness" : 50.0,
+                              "bounceBounciness" : 0.45
+                            },
+                            "parameters" : {
+                              "direction" : {
+                                "type" : "int",
+                                "valueBounds" : {
+                                  "minValue" : 0,
+                                  "maxValue" : 3,
+                                  "defaultValue" : 2
+                                },
+                                "uiHints" : {
+                                  "userInterfaceType" : 2,
+                                  "unitType" : 0
+                                },
+                                "keyframes" : [
+                                  {
+                                    "time" : 0,
+                                    "value" : 2,
+                                    "duration" : 0
+                                  }
+                                ]
+                              }
+                            }
+                          
+                          }
+                        }
+                    ],
+                    "start" : 832,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-VAlign" : "center",
+                      "default-rotation2" : 0.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 21,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "basic",
+                      "height" : 250.0,
+                      "width" : 400.0,
+                      "word-wrap" : 1.0,
+                      "horizontal-alignment" : "center",
+                      "text" : "3.Don't Overwhelm Yourself ",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 96.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":2,"rangeStart":0,"value":"Calibri","valueType":"string"},{"name":"fontWeight","rangeEnd":27,"rangeStart":0,"value":400,"valueType":"int"},{"name":"strikethrough","rangeEnd":27,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":26,"rangeStart":0,"value":"(11,2,2,255)","valueType":"color"},{"name":"fgColor","rangeEnd":27,"rangeStart":26,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":27,"rangeStart":0,"value":0,"valueType":"int"},{"name":"underline","rangeEnd":27,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":27,"rangeStart":0,"value":96,"valueType":"double"},{"name":"fontName","rangeEnd":27,"rangeStart":2,"value":"Montserrat","valueType":"string"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 84.5907214199258,
+                      "translation1" : 177.857142857236
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "DropShadow",
+                          "category" : "categoryVisualEffects",
+                          "parameters" : {
+                            "angle" : 5.49778714378214,
+                            "blur" : 10.0,
+                            "color-alpha" : 1.0,
+                            "color-blue" : 0.1216,
+                            "color-green" : 0.1216,
+                            "color-red" : 0.1216,
+                            "enabled" : 1,
+                            "offset" : 10.0,
+                            "opacity" : 0.4
+                          }
+                        },
+                        {
+                          "_type" : "GenericBehaviorEffect",
+                          "effectName" : "popUp",
+                          "start" : 0,
+                          "duration" : 150                        ,
+                          "in" : {
+                            "attributes" : {
+                              "name" : "hinge",
+                              "type" : 1,
+                              "characterOrder" : 6,
+                              "offsetBetweenCharacters" : "3/2",
+                              "suggestedDurationPerCharacter" : "147/2",
+                              "overlapProportion" : "1/3",
+                              "movement" : 30,
+                              "springDamping" : 5.0,
+                              "springStiffness" : 50.0,
+                              "bounceBounciness" : 0.45
+                            },
+                            "parameters" : {
+                              "direction" : {
+                                "type" : "int",
+                                "valueBounds" : {
+                                  "minValue" : 0,
+                                  "maxValue" : 3,
+                                  "defaultValue" : 3
+                                },
+                                "uiHints" : {
+                                  "userInterfaceType" : 2,
+                                  "unitType" : 0
+                                },
+                                "keyframes" : [
+                                  {
+                                    "time" : 0,
+                                    "value" : 3,
+                                    "duration" : 0
+                                  }
+                                ]
+                              }
+                            }
+                          
+                          },
+                          "center" : {
+                            "attributes" : {
+                              "name" : "popUp",
+                              "type" : 1,
+                              "characterOrder" : 6,
+                              "offsetBetweenCharacters" : "51/10",
+                              "secondsPerLoop" : 1,
+                              "numberOfLoops" : -1,
+                              "delayBetweenLoops" : 0,
+                              "offsetBetweenCharacters" : "51/10"
+                            },
+                            "parameters" : {
+                              "direction" : {
+                                "type" : "int",
+                                "valueBounds" : {
+                                  "minValue" : 0,
+                                  "maxValue" : 3,
+                                  "defaultValue" : 3
+                                },
+                                "uiHints" : {
+                                  "userInterfaceType" : 2,
+                                  "unitType" : 0
+                                },
+                                "keyframes" : [
+                                  {
+                                    "time" : 0,
+                                    "value" : 3,
+                                    "duration" : 0
+                                  }
+                                ]
+                              },
+                              "movement" : {
+                                "type" : "int",
+                                "valueBounds" : {
+                                  "minValue" : 0,
+                                  "maxValue" : 31,
+                                  "defaultValue" : 27
+                                },
+                                "uiHints" : {
+                                  "userInterfaceType" : 4,
+                                  "unitType" : 0
+                                },
+                                "keyframes" : [
+                                  {
+                                    "time" : 0,
+                                    "value" : 27,
+                                    "duration" : 0
+                                  }
+                                ]
+                              },
+                              "rotation" : {
+                                "type" : "double",
+                                "defaultValue" : 0.279252680319093,
+                                "valueBounds" : {
+                                  "minValue" : -1.0471975511966,
+                                  "maxValue" : 1.0471975511966,
+                                  "defaultValue" : 0.279252680319093
+                                },
+                                "uiHints" : {
+                                  "userInterfaceType" : 1,
+                                  "unitType" : 3
+                                }
+                              }
+                            }
+                          
+                          },
+                          "out" : {
+                            "attributes" : {
+                              "name" : "hinge",
+                              "type" : 1,
+                              "characterOrder" : 6,
+                              "offsetBetweenCharacters" : "3/2",
+                              "suggestedDurationPerCharacter" : 20,
+                              "overlapProportion" : "1/2",
+                              "movement" : 7,
+                              "springDamping" : 5.0,
+                              "springStiffness" : 50.0,
+                              "bounceBounciness" : 0.45
+                            },
+                            "parameters" : {
+                              "direction" : {
+                                "type" : "int",
+                                "valueBounds" : {
+                                  "minValue" : 0,
+                                  "maxValue" : 3,
+                                  "defaultValue" : 3
+                                },
+                                "uiHints" : {
+                                  "userInterfaceType" : 2,
+                                  "unitType" : 0
+                                },
+                                "keyframes" : [
+                                  {
+                                    "time" : 0,
+                                    "value" : 3,
+                                    "duration" : 0
+                                  }
+                                ]
+                              }
+                            }
+                          
+                          }
+                        }
+                    ],
+                    "start" : 982,
+                    "duration" : 150,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 150,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-VAlign" : "center",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                  {
+                    "id" : 22,
+                    "_type" : "Caption",
+                    "allowTrimOut" : 1,
+                    "maxMediaDuration" : 9.22337e+18,
+                    "parameters" : {
+                      "captionData" : {
+                        "type" : "caption",
+                        "keyframes" : [
+                          {
+                            "time" : -9999999,
+                            "value" : { "text" : "It is always harder to focus during the summer. The weather is nice, offices have summer hours, and everyone would rather be on ", "textAttributes" : null },
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 149,
+                            "value" : { "text" : "vacation. It is hard enough to be productive without the warm weather distracting people, and much, much worse when you must stay at ", "textAttributes" : null },
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 295,
+                            "value" : { "text" : "the office longer because you were day dreaming about leaving. Here a few tips to get more done in less time, so you can enjoy the ", "textAttributes" : null },
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 451,
+                            "value" : { "text" : "season and succeed at work:", "textAttributes" : null },
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 532,
+                            "value" : { "text" : "Think about how and why you are not getting as much work done as you need to: is it because you're tired? Identify what you believe ", "textAttributes" : null },
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 603,
+                            "value" : { "text" : "is the root of your problem with productivity, and think of solutions that address that issue.", "textAttributes" : null },
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 682,
+                            "value" : { "text" : "Trying to complete several tasks at once only makes you complete each task more slowly and usually costs you more time than if you ", "textAttributes" : null },
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 777,
+                            "value" : { "text" : "focus on each task individually.", "textAttributes" : null },
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 832,
+                            "value" : { "text" : "Being ambitious is good until it is overwhelming. Then it is counterproductive. Trying to do too much will only cause you stress, making you ", "textAttributes" : null },
+                            "duration" : 0
+                          },
+                          {
+                            "time" : 894,
+                            "value" : { "text" : "less productive and more anxious. So refine your to-do list, and be intentional about what needs to be done today.", "textAttributes" : null },
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 150,
+                    "duration" : 982,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 982,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 3,
+                "medias" : [
+                  {
+                    "id" : 23,
+                    "_type" : "AMFile",
+                    "src" : 11,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "bensound-summer",
+                      "sampleRate" : 44100,
+                      "bitDepth" : 0,
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "parameters" : {
+                      "volume" : 0.10989010989011
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 1132,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1132,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 4,
+                "medias" : [
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 42,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\ElitsaMilusheva\\AppData\\Local\\TechSmith\\Camtasia Studio\\18.0\\Auto-Saves\\Untitled Projectbb9f2c7.autosave.tscproj",
+    "CanvasZoom" : 35,
+    "Date" : "2018-12-14 04:48:38 PM",
+    "Fit" : 0,
+    "IsAutoSave" : "0",
+    "Language" : "ENU",
+    "ProfileName" : "",
+    "ProjectDimensionsChanged" : "1",
+    "Title" : "video_soft",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic",
+    "canvasDetached" : "False",
+    "canvasPositionHeight" : "0",
+    "canvasPositionLeft" : "0",
+    "canvasPositionTop" : "0",
+    "canvasPositionWidth" : "0"
+  }
+}
