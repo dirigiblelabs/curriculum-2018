@@ -38,7 +38,7 @@ In the lower menu the user has the option to perform operation on all the files 
 <img alt="gitOperations" src="./images/gitOperations.png" height="70%" width="70%"/>
 </p>
 
-The user can also **Clone** a repository to the current workspace.
+The user can also clone a project with the **Clone Project** command to the current workspace.
 <p align="center">
 <img alt="gitClone" src="./images/gitClone.png" height="70%" width="70%"/>
 </p>
