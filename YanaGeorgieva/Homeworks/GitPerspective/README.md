@@ -39,10 +39,18 @@ In order to execute a command (git operation) on a single file or folder, the us
 
 In the lower menu the user has the option to perform operation on all the files in the current workspace - **Push All Projects** from the current workspace to the remote repository or **Pull All Projects** from remote repository to the current workspace. The data required to execute these commands are similar to the previous commands where only one file is effected.
 <p align="center">
-<img alt="git" src="./images/" height="50%" width="50%"/>
+<img alt="pullAllProjects." src="./images/pullAllProjects.png" height="50%" width="50%"/>
+</p>
+
+<p align="center">
+<img alt="pushAllProjects" src="./images/pushAllProjects.png" height="50%" width="50%"/>
 </p>
 
 The user can also clone a project with the **Clone Project** command to the current workspace.
+<p align="center">
+<img alt="clone" src="./images/clone.png" height="50%" width="50%"/>
+</p>
+
 <p align="center">
 <img alt="gitClone" src="./images/gitClone.png" height="50%" width="50%"/>
 </p>
