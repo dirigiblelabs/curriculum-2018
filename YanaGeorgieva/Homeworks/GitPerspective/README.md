@@ -4,7 +4,9 @@
 The Git perspective aims at presenting a simplified interface for the most common git operations. It is built from tools that support Git client operations. 
 </p>
 
-
+<p align="center">
+<img alt="gitPerspective" src="./images/gitPerspective.png" height="100%" width="100%"/>
+</p>
 
 <p align="center">
 The Git perspective is comprised of Git and Console views and Workspace menu. It enables the users to perform simple git operations such as cloning a repository to a workspace, pulling changes, and pushing commits. The user can create, manage, and switch between multiple workspaces through the Workspace menu.
