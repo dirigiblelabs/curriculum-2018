@@ -12,7 +12,7 @@ Workspace is the developer's place where he/she creates and manages the files of
 
 ![workspace](workspace.png)
 
-**Import view*
+**Import view**
 The Import section allows the user to upload a file with any extension or even a *.zip file, containing one or more projects in the selected workspace. The view includes a bar that shows the file upload process in the workspace. The user can manage and switch between several workspaces through the Workspace menu.
 
 ![import](import.png)
