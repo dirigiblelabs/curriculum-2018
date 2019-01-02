@@ -56,7 +56,7 @@ The user can also clone a project with the **Clone Project** command to the curr
 </p>
 
 ### References:
-* The links to the Eclipse Dirigible Trial IDE are [http://trial.dirigible.io](http://trial.dirigible.io) and [http://dirigible.eclipse.org](http://dirigible.eclipse.org)
+* Eclipse Dirigible Trial IDE links: [http://trial.dirigible.io](http://trial.dirigible.io) and [http://dirigible.eclipse.org](http://dirigible.eclipse.org)
 * [http://www.dirigible.io/help/ide_perspective_git.html](http://www.dirigible.io/help/ide_perspective_git.html)
 
 <p align="center">
