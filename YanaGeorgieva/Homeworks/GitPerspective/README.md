@@ -1,5 +1,9 @@
 <h1 align="center">Git Perspective</h1>
 
+<p align="center">
+<img alt="git" src="https://gitforwindows.org/img/git_logo.png" height="10%" width="10%"/>
+</p>
+
 The **Git** perspective aims at presenting a simplified interface for the most common git operations. It is built from tools that support **Git** client operations. If the user does not have any exprience with **Git** then the following [link](https://rubygarage.org/blog/most-basic-git-commands-with-examples) gives a good explanation what is **Git** and the basic usage.
 
 <p align="center">
