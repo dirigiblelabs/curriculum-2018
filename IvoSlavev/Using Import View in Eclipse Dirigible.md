@@ -3,8 +3,8 @@
 The **Import View** enables you to upload file/s, containing one or more projects, to selected workspace in **Eclipse Dirigible**.
 
 ## Prerequisites
-
-- In order to use a project in Eclipse Dirigible you need to upload your project to a certain **workspace** as separate files or as a .zip archive.
+- You must sign in Eclipse Dirigible as a guest or from your personal account.
+- In order to use a project in Eclipse Dirigible you need to upload your project to a certain **workspace** as separate files or as a .zip archive using Import View.
 
 ## Import View options
 
