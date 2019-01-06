@@ -17,22 +17,22 @@ The following table lists the available actions in the "Documents Perspective" a
 ### Functionalities ###
 
 ##### 1.How to upload file/files? #####
-**1.1 Dropping**
-&emsp;1.1.1. Make your Eclipse Dirigable window small.
-&emsp;1.1.2. Click on the file or folder you want to upload, drag and drop it in the  "Drop files here section" .
-&emsp;1.1.3 The file/files must appear in the "Upload Queue" section.
+**1.1 Dropping** </br>
+&emsp;1.1.1. Make your Eclipse Dirigable window small.</br>
+&emsp;1.1.2. Click on the file or folder you want to upload, drag and drop it in the  "Drop files here section" .</br>
+&emsp;1.1.3 The file/files must appear in the "Upload Queue" section.</br>
 
-**1.2. Browsing your file system**
-&emsp;1.2.1. Click on the "Browse" button (The language of the label may differ depending on your browser language settings).
-&emsp;1.2.2. In the pop-up window find and select you file/files or folders and Click OK.
-&emsp;1.2.3 The file/files must appear in the "Upload Queue" section.
+**1.2. Browsing your file system**</br>
+&emsp;1.2.1. Click on the "Browse" button (The language of the label may differ depending on your browser language settings).</br>
+&emsp;1.2.2. In the pop-up window find and select you file/files or folders and Click OK.</br>
+&emsp;1.2.3 The file/files must appear in the "Upload Queue" section.</br>
 
-**1.3.Additional Options (Optional)** 
-&emsp;If you want to unzip archives on upload Check the corresponding checkbox at the bottom of the "Upload files" section. The same applies if you want to overwrite existing files with the same name.
+**1.3.Additional Options (Optional)** </br>
+&emsp;If you want to unzip archives on upload Check the corresponding checkbox at the bottom of the "Upload files" section. The same applies if you want to overwrite existing files with the same name.</br>
 
 ![Image of the "Upload files" section in the Documents Perspective of Eclipse Dirigable](https://i.gyazo.com/a8865dfb36eb6e667e4173a297f58c54.png)
 
-##### 2.How to work with Upload Queue #####
+##### 2.How to work with Upload Queue #####</br>
 On the Upload Queue section you can see the progrres of the uploaded files and quickly *Upload/Cancel/Remove* some of them. Also the Queue progress bar shows what part of the files are alredy uploaded.
 ![Image of the "Upload Queue" section in the Documents Perspective of Eclipse Dirigable](https://i.gyazo.com/33e83fb254ed500f31ba0b3559748b1d.png)
 
