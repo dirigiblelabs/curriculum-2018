@@ -24,9 +24,9 @@ The following table lists the available actions in the "Documents Perspective" a
 &emsp;1.1.3 The file/files must appear in the "Upload Queue" section </br>
 
 <b>1.2. Browsing your file system </b></br>
-1.2.1. Click on the "Browse" button (The language of the label may differ depending on your browser language settings)</br>
-1.2.2. In the pop-up window find and select you file/files or folders and Click OK</br>
-1.2.3 The file/files must appear in the "Upload Queue" section</br>
+&emsp;1.2.1. Click on the "Browse" button (The language of the label may differ depending on your browser language settings)</br>
+&emsp;1.2.2. In the pop-up window find and select you file/files or folders and Click OK</br>
+&emsp;1.2.3 The file/files must appear in the "Upload Queue" section</br>
 
 <b>1.3.Additional Options (Optional)</b> </br>
 If you want to unzip archives on upload Check the corresponding checkbox at the bottom of the "Upload files" section. The same applies if you want to overwrite existing files with the same name. </br>
@@ -35,13 +35,13 @@ If you want to unzip archives on upload Check the corresponding checkbox at the 
 ![alt text](https://i.gyazo.com/a8865dfb36eb6e667e4173a297f58c54.png)
 
 <h4> 2.How to work with Upload Queue </h4>
-On the Upload Queue section you can see the progrres of the uploaded files and quickly <i>Upload/Cancel/Remove</i> some of them. Also the Queue progress bar shows what part of the files are alredy uploaded.
+On the Upload Queue section you can see the progrres of the uploaded files and quickly <i>Upload/Cancel/Remove</i> some of them. Also the Queue progress bar shows what part of the files are alredy uploaded. </br>
 ![alt text](https://i.gyazo.com/33e83fb254ed500f31ba0b3559748b1d.png)
 
 <h4> 3. Search and create new folder/folders </h4>
 You can search for file/files in the "Search in folder" text area. Simply write the name of the file you need to find and if it exists you will see it below. By pressing the button "Clear" you text area will be cleared.
 In the second text area you can see the path of your files (for example if you have file named test.txt in folder "university" below the root folder you will see in this area - root/university/tst.txt). Next to it you have button for creatingnew folder in the current directory, deleting some or all of the items or downloading them in .zip archive.
-In the content area you will see the content of the current folder.
+In the content area you will see the content of the current folder. </br>
 ![alt text](https://i.gyazo.com/1ea74cb3547266c53a88cb881861a5e0.png)
 
 
