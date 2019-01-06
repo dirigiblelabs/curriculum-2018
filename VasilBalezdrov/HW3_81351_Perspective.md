@@ -28,11 +28,11 @@ The following table lists the available actions in the "Documents Perspective" a
 &emsp;1.2.3 The file/files must appear in the "Upload Queue" section.</br>
 
 **1.3.Additional Options (Optional)** </br>
-&emsp;If you want to unzip archives on upload Check the corresponding checkbox at the bottom of the "Upload files" section. The same applies if you want to overwrite existing files with the same name.</br>
+&emsp;If you want to unzip archives on upload Check the corresponding checkbox at the bottom of the "Upload files" section. The same &emsp applies if you want to overwrite existing files with the same name.</br>
 
 ![Image of the "Upload files" section in the Documents Perspective of Eclipse Dirigable](https://i.gyazo.com/a8865dfb36eb6e667e4173a297f58c54.png)
 
-##### 2.How to work with Upload Queue #####</br>
+##### 2.How to work with Upload Queue  </br>
 On the Upload Queue section you can see the progrres of the uploaded files and quickly *Upload/Cancel/Remove* some of them. Also the Queue progress bar shows what part of the files are alredy uploaded.
 ![Image of the "Upload Queue" section in the Documents Perspective of Eclipse Dirigable](https://i.gyazo.com/33e83fb254ed500f31ba0b3559748b1d.png)
 
