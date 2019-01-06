@@ -16,7 +16,7 @@ The following table lists the available actions in the "Documents Perspective" a
 
 ### Functionalities ###
 
-##### 1.How to upload file/files? #####
+#### 1.How to upload file/files? ####
 **1.1 Dropping** </br>
 &emsp;1.1.1. Make your Eclipse Dirigable window small.</br>
 &emsp;1.1.2. Click on the file or folder you want to upload, drag and drop it in the  "Drop files here section" .</br>
@@ -28,7 +28,7 @@ The following table lists the available actions in the "Documents Perspective" a
 &emsp;1.2.3 The file/files must appear in the "Upload Queue" section.</br>
 
 **1.3.Additional Options (Optional)** </br>
-&emsp;If you want to unzip archives on upload Check the corresponding checkbox at the bottom of the "Upload files" section. The same &emsp applies if you want to overwrite existing files with the same name.</br>
+&emsp;If you want to unzip archives on upload Check the corresponding checkbox at the bottom of the "Upload files" section. The same applies if you want to overwrite existing files with the same name.</br>
 
 ![Image of the "Upload files" section in the Documents Perspective of Eclipse Dirigable](https://i.gyazo.com/a8865dfb36eb6e667e4173a297f58c54.png)
 
