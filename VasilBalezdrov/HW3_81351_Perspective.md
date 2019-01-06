@@ -17,6 +17,7 @@ The following table lists the available actions in the "Documents Perspective" a
 ### Functionalities ###
 
 #### 1.How to upload file/files? ####
+
 **1.1 Dropping** </br>
 &emsp;1.1.1. Make your Eclipse Dirigable window small.</br>
 &emsp;1.1.2. Click on the file or folder you want to upload, drag and drop it in the  "Drop files here section" .</br>
