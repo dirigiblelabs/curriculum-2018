@@ -55,6 +55,17 @@ The user can also clone a project with the **Clone Project** command to the curr
 <img alt="gitClone" src="./images/gitClone.png" height="50%" width="50%"/>
 </p>
 
+If the user wants or needs to, he/she can easily **Refresh** the workspace.
+<p align="center">
+<img alt="refresh" src="./images/refresh.png" height="50%" width="50%"/>
+</p>
+
+He/She can **change workspaces** by choosing from the menu located next to the refresh button.
+<p align="center">
+<img alt="changeWorkspace" src="./images/changeWorkspace.png" height="50%" width="50%"/>
+</p>
+
+
 ### References:
 * Eclipse Dirigible Trial IDE links: [http://trial.dirigible.io](http://trial.dirigible.io) and [http://dirigible.eclipse.org](http://dirigible.eclipse.org)
 * [http://www.dirigible.io/help/ide_perspective_git.html](http://www.dirigible.io/help/ide_perspective_git.html)
