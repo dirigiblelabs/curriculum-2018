@@ -4,7 +4,7 @@
 <img alt="git" src="https://gitforwindows.org/img/git_logo.png" height="10%" width="10%"/>
 </p>
 
-The **Git** perspective aims at presenting a simplified interface for the most common git operations. It is built from tools that support **Git** client operations. If the user does not have any exprience with **Git** then the following [link](https://rubygarage.org/blog/most-basic-git-commands-with-examples) gives a good explanation what is **Git** and the basic usage.
+The **Git** perspective aims at presenting a simplified interface for the most common git operations. It is built from tools that support **Git** client operations. If the user does not have any experience with **Git** then the following [link](HTTPS://rubygarage.org/blog/most-basic-git-commands-with-examples) gives a good explanation what is **Git** and the basic usage.
 
 <p align="center">
 <img alt="gitPerspective" src="./images/gitPerspective.png" height="100%" width="100%"/>
@@ -17,7 +17,7 @@ In order to execute a command (git operation) on a single file or folder, the us
 <img alt="menuOnFile" src="./images/menuOnFile.png" height="50%" width="50%"/>
 </p>
 
-* The **Pull** command fetchs and merges changes on the remote repository to the workspace.
+* The **Pull** command fetches and merges changes on the remote repository to the workspace.
 <p align="center">
 <img alt="gitPullOneProject" src="./images/gitPullOneProject.png" height="50%" width="50%"/>
 </p>
