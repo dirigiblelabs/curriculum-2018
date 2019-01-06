@@ -7,7 +7,7 @@
 <p>
   The Git perspective is comprised of Git and Console views and Workspace menu. It enables the users to perform simple Git operations such as cloning a repository to a workspace, pulling changes, and pushing commits. The user can create, manage, and switch between multiple workspaces through the Workspace menu.
   <br>
-  *Note*: In case of merge conflict on Push operation, a new branch with your local changes will be created in the remote repository. From this point you can use your preferred tooling to apply the actual merge between the two branches.
+  <i>Note</i>: In case of merge conflict on Push operation, a new branch with your local changes will be created in the remote repository. From this point you can use your preferred tooling to apply the actual merge between the two branches.
 </p>
 
 ## Functionalities
@@ -19,7 +19,7 @@
 </p>
 <img src="./images/workspace.png" alt="Change workspace">
 <p>
-  In the image above there is only one workspace named **workspace**.
+  In the image above there is only one workspace named <b>workspace</b>.
 </p>
 
 ### 2. How to clone project ?
@@ -32,9 +32,9 @@
   <img src="./images/cloneProjectView.png" alt="View for cloning a project">
   <br>
   <br>
-  In the first field (**URL**) you should write the URL of the project that you want to clone. Second field (**Username**) is for the username and third field (**Password**) is for the password for the account in the specific implementation of the Git version control system where the project is located.
+  In the first field (<b>URL</b>) you should write the URL of the project that you want to clone. Second field (<b>Username</b>) is for the username and third field (<b>Password</b>) is for the password for the account in the specific implementation of the Git version control system where the project is located.
   <br>
-  After you have filled in the blank fields to clone the project select the button *Clone*. To cancel the cloning procedure select the button *Cancel*.
+  After you have filled in the blank fields to clone the project select the button <i>Clone</i>. To cancel the cloning procedure select the button <i>Cancel</i>.
 </p>
 
 ### 3. How to pull all projects ?
@@ -47,9 +47,9 @@
   <img src="./images/pullAllProjectsView.png" alt="View for pulling all projects">
   <br>
   <br>
-  First field (**Username**) is for the username and second field (**Password**) is for the password for the account in the specific implementation of the Git version control system from where you pull all projects.
+  First field (<b>Username</b>) is for the username and second field (<b>Password</b>) is for the password for the account in the specific implementation of the Git version control system from where you pull all projects.
   <br>
-  After you have filled in the blank fields to pull all the projects select the button *Pull All*. To cancel the pulling procedure select the button *Cancel*.
+  After you have filled in the blank fields to pull all the projects select the button <i>Pull All</i>. To cancel the pulling procedure select the button <i>Cancel</i>.
 </p>
 
 ### 4. How to push all projects ?
@@ -62,9 +62,9 @@
   <img src="./images/pushAllProjectsView.png" alt="View for pushing all projects">
   <br>
   <br>
-  First field (**Message**) is for the commit message. Second field (**Username**) is for the username and third field (**Password**) is for the password for the account in the specific implementation of the Git version control system where you push all the projects. In the fourth field (**e-mail**) you should write your email address.
+  First field (<b>Message</b>) is for the commit message. Second field (<b>Username</b>) is for the username and third field (<b>Password</b>) is for the password for the account in the specific implementation of the Git version control system where you push all the projects. In the fourth field (<b>e-mail</b>) you should write your email address.
   <br>
-  After you have filled in the blank fields to push all the projects select the button *Push All*. To cancel the pushing procedure select the button *Cancel*.
+  After you have filled in the blank fields to push all the projects select the button <i>Push All</i>. To cancel the pushing procedure select the button <i>Cancel</i>.
 </p>
 
 ### 5. How to refresh the workspace ?
@@ -74,13 +74,13 @@
 
 ### 6. How to pull a specific project ?
 <p>
-  You can pull a specific project from Git by selecting it from the workspace with right click and then choose the option *Pull* from the drop-down menu.
+  You can pull a specific project from Git by selecting it from the workspace with right click and then choose the option <i>Pull</i> from the drop-down menu.
   <br>
   <br>
   <img src="./images/pull.png" alt="Pull option">
   <br>
   <br>
-  A view appears on left which is similar to the view that appears when selecting the button <img src="./images/pullAllProjects.png" alt="Button for pulling all projects"> (*Pull All Projects* button).
+  A view appears on left which is similar to the view that appears when selecting the button <img src="./images/pullAllProjects.png" alt="Button for pulling all projects"> (<i>Pull All Projects</i> button).
   <br>
   <br>
   <img src="./images/pullView.png" alt="View for pulling a specific project">
@@ -88,13 +88,13 @@
 
 ### 7. How to push a specific project ?
 <p>
-  You can push a specific project to Git by selecting it from the workspace with right click and then choose the option *Push* from the drop-down menu.
+  You can push a specific project to Git by selecting it from the workspace with right click and then choose the option <i>Push</i> from the drop-down menu.
   <br>
   <br>
   <img src="./images/push.png" alt="Push option">
   <br>
   <br>
-  A view appears on left which is similar to the view that appears when selecting the button <img src="./images/pushAllProjects.png" alt="Button for pushing all projects"> (*Push All Projects* button).
+  A view appears on left which is similar to the view that appears when selecting the button <img src="./images/pushAllProjects.png" alt="Button for pushing all projects"> (<i>Push All Projects</i> button).
   <br>
   <br>
   <img src="./images/pushView.png" alt="View for pushing a specific project">
@@ -102,13 +102,13 @@
 
 ### 8. How to reset a specific project from Git ?
 <p>
-  You can reset a specific project from Git by selecting it from the workspace with right click and then choose the option *Reset* from the drop-down menu.
+  You can reset a specific project from Git by selecting it from the workspace with right click and then choose the option <i>Reset</i> from the drop-down menu.
   <br>
   <br>
   <img src="./images/reset.png" alt="Reset option">
   <br>
   <br>
-  A view appears on left containing three fields: **Message**, **Username** and **Password**.
+  A view appears on left containing three fields: <b>Message</b>, <b>Username</b> and <b>Password</b>.
   <br>
   <br>
   <img src="./images/resetView.png" alt="Reset view">
@@ -116,13 +116,13 @@
 
 ### 9. How to share a specific project to Git ?
 <p>
-  You can share a specific project to Git by selecting it from the workspace with right click and then choose the option *Share* from the drop-down menu.
+  You can share a specific project to Git by selecting it from the workspace with right click and then choose the option <i>Share</i> from the drop-down menu.
   <br>
   <br>
   <img src="./images/share.png" alt="Share option">
   <br>
   <br>
-  A view appears on left containing six fields: **Repository**, **Branch**, **Message**, **Username**, **Password** and **e-mail**.
+  A view appears on left containing six fields: <b>Repository</b>, <b>Branch</b>, <b>Message</b>, <b>Username</b>, <b>Password</b> and <b>e-mail</b>.
   <br>
   <br>
   <img src="./images/shareView.png" alt="Share view">
