@@ -32,7 +32,7 @@ In the properties section the user can see the name, path, type, and the content
 
 The console is a major debugging tool. It shows the output of the code that the user is executing. 
 
-![Console view](Console view.png)
+![ConsoleView](ConsoleView.png)
 
 ### *Preview view*
 
