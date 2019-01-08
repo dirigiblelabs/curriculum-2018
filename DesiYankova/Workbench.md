@@ -3,9 +3,9 @@ This is the place where the user develops the dynamic applications. This perspec
 
 ![Workbench Perspective](Workbench Perspective.png)
 
-##The Workbench perspective consists of:
+## The Workbench perspective consists of:
 
-###*Workspace view*
+### *Workspace view*
 
 Workspace is the developer's place where he / she creates and manages the files of his application and projects. Each project can contain multiple folders and files. A single user can have multiple workspaces, containing different set of projects. In Version 3 of Dirigible there is a new  new template-based project and artifacts scaffolding generators features. The projects file organization is now non-normative and entirely up-to the preferences of the users.  The IDE supports multiple editors registered for different file types. The Workspace explorer displays a standard view on the projects in your workspace. It shows the folder structure along with the files. 
 
@@ -16,25 +16,25 @@ There is a context menu assigned to the project node from where the user can cre
 
 ![Workspace view2](Workspace view2.png)
 
-###*Import view*
+### *Import view*
 
 The Import section allows the user to upload a file with any extension or a *.zip file, containing one or more projects in the selected workspace. The view includes a bar that shows the file upload process in the workspace. The user can manage and switch between several workspaces through the Workspace menu.
 
 ![mport view](Import view.png)
 
-###*Properties view*
+### *Properties view*
 
 In the properties section the user can see the name, path, type, and the content of a file chosen by him.
 
 ![workbench](Properties view.png	Console view)
 
-###*Console view*
+### *Console view*
 
 The console is a major debugging tool. It shows the output of the code that the user is executing. 
 
 ![Console view](Console view.png)
 
-###*Preview view*
+### *Preview view*
 
 The Preview section shows the result of the selected file.  It refreshes automatically when an event occurs in the workspace.
 
