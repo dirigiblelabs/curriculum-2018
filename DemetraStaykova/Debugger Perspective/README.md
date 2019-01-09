@@ -2,7 +2,8 @@
 In this documentation you will learn how to use the Debugger in Eclipse Dirigible online platform
 ![](icon.png)
 
-**Prerequisites**
+
+## **Prerequisites**
 You should open http://dirigible.eclipse.org opened, log in and load an existing non-empty project
 
 ## Content
