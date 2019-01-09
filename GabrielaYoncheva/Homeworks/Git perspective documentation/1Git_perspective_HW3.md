@@ -21,7 +21,7 @@ By choosing **Clone Project** operation the user can clone a project to the curr
 
 ![clone](49209663_360181591440859_7045012186791411712_n.png)
 
-## Push all projects ![pullAll](pushall.png) #
+## Push all projects ![pushAll](pushAll.png) #
 On the menu there is an option to perform an operation on all files.
 By choosing **Push All Projects** you can push all of your files at once, from the current workspace to a remote repository.
 
@@ -29,7 +29,7 @@ By choosing **Push All Projects** you can push all of your files at once, from t
 
 ![push](49938022_2239537572998512_1980476236991823872_n.png)
 
-## Pull all projects ![pullAll](pullall.png) #
+## Pull all projects ![pullAll](pullAll.png) #
 Also, by choosing **Pull All Projects** you can pull all of your files from remote repository to the current workspace.
 
 ![pullAll](49339005_2101171193507465_7857357417779036160_n.png)
