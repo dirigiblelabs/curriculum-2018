@@ -11,7 +11,7 @@ You should open http://dirigible.eclipse.org opened, log in and load an existing
   - Initial steps for using a debbuger
   - Types of views in the Debugger Perspective
 
-### The Debugger Perspective as an Eclipse Dirigible tool
+## The Debugger Perspective as an Eclipse Dirigible tool
 The Web IDE includes a Debugger perspective which is comprised of the following views:
  - Debugger
  - Variables
@@ -21,7 +21,7 @@ The Web IDE includes a Debugger perspective which is comprised of the following 
 The Debugger perspective enables you to monitor the execution of your code, stop it, restart it or set breakpoints, and change values in memory.
 ![](debugger-preview.png)
 
-### Initial Steps
+## Initial Steps
  1. In the *Workspace* section, choose your project name and then the file you want to debug.
  2. To create breakpoints, double-click on the left numbered side.
 ![](breakpoints.png)
@@ -30,21 +30,22 @@ The Debugger perspective enables you to monitor the execution of your code, stop
  5. You can pause the execution, start it again and step into and step back with the icons in the *Debbuger* section.
  5. In the *Console* section you can view the code execution.
  6. To start a new debugging session, refresh in the *Preview* section and start again the process.
- ### Types of views in the Debugger Perspective
-#### Debugger View
+
+## Types of views in the Debugger Perspective
+### Debugger View
 The Debugger view enables you to navigate the debugging of your code: to start it, pause it, restart it or proceed step by step.
 ![](debugger-view.png)
-#### Variables View
+### Variables View
 The Variables view displays the defined values of the variables when the code is executed. During the debugging process they may be displayed step by step or all at once, depending on the existing breakpoints.
 ![](variables-view.png)
-#### Breakpoints view
+### Breakpoints view
 The Breakpoints view enables you to follow the breakpoints you have created in the course of the debugging process. The first column of the view displays the path to the file in the document repository and the second one - the row where the breakpoint is situated.
 Dillinger requires 
 ![](breakpoints-view.png)
-#### Console View
+### Console View
 The Console view is a major debugging tool. It displays the output of the code that you are executing.
 ![](console-view.png)
-#### Preview view
+### Preview view
 The Preview view displays the result of executing the selected file. It refreshes automatically during Workspace change events e.g. Save.
 ![](preview-view.png)
 
