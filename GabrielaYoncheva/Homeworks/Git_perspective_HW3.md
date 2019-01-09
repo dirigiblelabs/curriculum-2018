@@ -1,6 +1,6 @@
 
 ## Git perspective ##
-The front-facing Web IDE component is a collection of plugins for project management, source code editing, modeling, SCM integration, database management and many more. One of the importen perspectives the WEB IDE include is the **Git perspective**
+The front-facing Web IDE component is a collection of plugins for project management, source code editing, modeling, SCM integration, database management and many more. One important perspective of the WEB IDE is the **Git perspective**
 
 The **Git perspective** aims at presenting a simplified interface for the most common git operations. It is built from tools that support **Git** client operations. Here is a [link](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html) with the most basic **Git** commands, if you have no experience with it. 
 ## ##
