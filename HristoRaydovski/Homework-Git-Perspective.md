@@ -23,6 +23,7 @@ To pull a given project right click on the project and select pull.
 ![pull_project](images/pull_project.PNG)
 
 To pull all the project click the pull icon.
+
 ![pull_all_projects](images/all_projects_pull.png)
 
 ### Push commits
@@ -32,6 +33,7 @@ To push a given project right click on the project and select push.
 ![push_project](images/push_project.png)
 
 To push all the project click the push icon.
+
 ![push_all_projects](images/all_projects_push.png)
 
 > Note: In case of merge conflict on Push operation, a new branch with your local changes will be created in the remote repository. From this point you can use your preferred tooling to apply the actual merge between the two branches. 
