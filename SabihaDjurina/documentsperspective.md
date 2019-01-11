@@ -5,13 +5,17 @@ spreadsheets, PDF files, etc. It enables him/her to upload, overwrite, download,
 
 ![Documents Perspective](img1.JPG)
 
+## Views
+---
+At the moment the Documents perspective consists of only one view, which is also called Documents.
+
 ### Options
 ---
 
 ![Search](searchfolder.JPG)
 
-In the "Search in folder" field you can type in the folder`s name to find it. 
-There is a "Clear" button that clears the searched folder`s names.
+In the "Search in folder" field you can type in the folder's name to find it. 
+There is a "Clear" button that clears the searched folder's names.
 If the folder exists then it is shown and you can select it to view the folder files.
 ---
 The next field shows the current folder and gives the opportunity to go back in the folder/s that are higher in the hierarchy.
@@ -37,10 +41,6 @@ You can choose the desired option by clicking the corresponding button ![Folder 
  - Rename - it gives the opportunity to rename the file
  - Delete - it gives the opportunity to  delete the file
 You can choose the desired option by clicking the corresponding button ![File options](fileoptions.JPG)
-
-## Views
----
-At the moment the Documents perspective consists of only one view, which is also called Documents.
 
 ## Upload Files
 In this section you can upload files in the folder that you are in.
