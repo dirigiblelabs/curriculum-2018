@@ -22,7 +22,7 @@ The Database perspective features a:
 - database explorer
 - console to execute SQL statements and to preview results in table format
 
-**Views**
+### Views
 
 **Database view**
 
@@ -48,7 +48,7 @@ The Console view is a major debugging tool. It displays the output of the code t
 
 ### Features
 
-### Data Structures
+**Data Structures**
 
 - Creation of table model (JSON formatted  **\*.table**  descriptor) and actual creation of the corresponding database table during publishing.
 - Creation of view model (JSON formatted  **\*.view**  descriptor) and actual creation of the corresponding database view during publishing.
@@ -56,6 +56,6 @@ The Console view is a major debugging tool. It displays the output of the code t
 - Automatic altering of existing tables from the models on compatible changes (new columns added).
 - Modelling of the database schema ( **\*.dsm**  and  **\*.schema** ) files and creation of the tables, views and constraints during publishing.
 
-### Tooling
+**Tooling**
 
 - _Database_ perspective for RDBMS management including SQL Console
