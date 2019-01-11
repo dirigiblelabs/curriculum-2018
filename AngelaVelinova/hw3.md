@@ -42,9 +42,9 @@ The Result view displays the output of the code that you are executing in the SQ
 
 **Console view**
 
+The Console view is a major debugging tool. It displays the output of the code that you are executing.
  <p align="center"> <img  src="d4.png"/> </p>
  
-The Console view is a major debugging tool. It displays the output of the code that you are executing.
 
 ### Features
 
