@@ -3,7 +3,7 @@
 
 #
 
- ![](d0.png)
+                                    ![](d0.png)
 
 The Database perspective contains tools for inspection and manipulation of the artifacts within the underlying relational database.
 
