@@ -1,10 +1,8 @@
 #
-# Database Perspective
+<h1 align="center">Database Perspective</h1>
 
 #
-<p align="center">
-<img alt="git" src="d0.png"/>
-</p>
+<p align="center"> <img  src="d0.png"/> </p>
   
 
 The Database perspective contains tools for inspection and manipulation of the artifacts within the underlying relational database.
