@@ -7,7 +7,7 @@
 
 The Database perspective contains tools for inspection and manipulation of the artifacts within the underlying relational database.
 
- ![](d1.png)
+<p align="center"> <img  src="d1.png"/> </p>
  
  
 It is comprised of the following views:
@@ -28,13 +28,13 @@ The Database perspective features a:
 
 The Database view gives you direct access to the default target schema assigned to your account in the Web IDE. It enables you to expand the schema item and see the list of all tables and views created either via the data structures models or directly via SQL script.
 
- ![](d2.png)
+ <p align="center"> <img  src="d2.png"/> </p>
  
 **SQL view**
 
 The SQL view is one of the most powerful and dangerous tool for database management. In the SQL console you can enter the SQL script compliant to the underlying database system. You get the result of the execution in the Results view below.
 
- ![](d3.png)
+ <p align="center"> <img  src="d3.png"/> </p>
  
 **Result view**
 
@@ -42,7 +42,7 @@ The Result view displays the output of the code that you are executing in the SQ
 
 **Console view**
 
- ![](d4.png)
+ <p align="center"> <img  src="d4.png"/> </p>
  
 The Console view is a major debugging tool. It displays the output of the code that you are executing.
 
