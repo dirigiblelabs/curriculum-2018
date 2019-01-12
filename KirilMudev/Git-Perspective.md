@@ -26,7 +26,7 @@ You can pull changes for a specific project or for all projects.
 
 To pull a specific project, right click on the project and select "Pull" from the dropdown.
 
-![pull_specific_project](images/pull_specific_project.PNG)
+![pull_specific_project](images/pull_specific_project.png)
 
 To pull all the projects, just click on the pull icon.
 
@@ -37,7 +37,7 @@ You can push changes for a specific project or for all projects.
 
 To push a specific project, right click on the project and select "Push" from the dropdown.
 
-![push_specific_project](images/push_specific_project.PNG)
+![push_specific_project](images/push_specific_project.png)
 
 To push all the projects, just click on the push icon.
 
