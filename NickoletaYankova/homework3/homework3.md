@@ -30,7 +30,7 @@ To clone the remote repository, select the ‘+’ button from the menu. It will
 ![clone_proj.png](images/clone_proj.png)
 
 ### Pull changes
-If you have changes available only remotely, right click on the project and select the “pull” option. You can also select to pull all projects using the ‘pull’ button from Git Perspective menu. 
+To pull you remote changes, right click on the project and select the “pull” option. You can also select to pull all projects using the ‘pull’ button from Git Perspective menu. 
 
 ![pull.png](images/pull.png)
 
