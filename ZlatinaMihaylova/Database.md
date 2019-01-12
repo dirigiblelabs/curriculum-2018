@@ -26,9 +26,11 @@ It enables you to expand the schema item and see the list of all tables and view
 For every schema in the Database View you have the option “Show Contents”, which allows you to see the table’s columns and values.
 
 Example:
+
 ![Database Example](6.png)
 
 Result:
+
 ![Database Result](7.png)
 
 ---
@@ -42,9 +44,11 @@ You get the result of the execution in the Results view below.
 You can also create new tables. After executing the CREATE statement with CTRL+X (CMD+X  for Mac), the table will appear in the Database view.
 
 Example:
+
 ![SQL Example](8.png)
 
 Result:
+
 ![SQL Example](9.png)
 
 ---
@@ -60,7 +64,9 @@ The Console view is a major debugging tool. Here you can see info for actions yo
 The Result view shows the output of the SQL code you execute after presing CTRL+X (CMD+X  for Mac).
 
 Example:
+
 ![Result Example](10.png)
 
 Result:
+
 ![Result Result](11111.png)
