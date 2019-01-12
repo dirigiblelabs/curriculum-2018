@@ -4,8 +4,8 @@ The Git perspective aims at presenting a simplified interface for the most commo
 
 The Git perspective has three components:
   - Workspace menu - create and switch between different workspaces.
-  - Git view - perform simple git operations such as cloning a repository to a workspace, pulling changes or pushing commits.
-  - Console view - see the output of the different actions and get information about errors and warnings
+  - Git view - perform simple Git operations such as cloning a repository to a workspace, pulling changes or pushing commits.
+  - Console view - see the output of the different actions and get information about errors and warnings.
 
 ## Workspace menu
 
@@ -53,7 +53,7 @@ To push all the projects, just click on the push icon.
 
 ## Console view
 
-You can view the output of your actions in the the console. It provides Git-related information about errors, warnings, timestamps and other. The console is read-only and can be used to track your actions and if their results are correct.
+You can view the output of your actions in the console. It provides Git-related information about errors, warnings, timestamps and other. The console is read-only and can be used to track your actions and if their results are correct.
 
 ![console](images/console.PNG)
 
