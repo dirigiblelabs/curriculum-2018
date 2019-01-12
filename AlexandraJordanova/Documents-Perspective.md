@@ -5,7 +5,7 @@ At the moment the Documents perspective consists of only one view, which is also
 
 ## Documents view 
 
-You can open the Documents perspective by clicking the **Documents** icon.
+You can open the Documents view by clicking the **Documents** icon.
 
  ![open-doc-perspective.png](https://i.imgur.com/QtxGEjX.png)
 
