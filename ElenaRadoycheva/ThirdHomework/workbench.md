@@ -3,5 +3,5 @@ This is the place where the user develops the dynamic applications. This perspec
 ![Workbench](workbench.png)
 The Workbench perspective consists of:
 ##	Workspace
- - **Workspace**:
+ - ##Workspace
 This is the place where the developer can create files that belong to some project and manage them. Each project can have one or more folders or files. The user has the option to create a various set of projects or to create different workspaces. By using the workspace view the developer can control the workspaces and jump from one workspace to another.
