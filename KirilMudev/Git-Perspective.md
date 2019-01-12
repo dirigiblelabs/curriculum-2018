@@ -1,6 +1,6 @@
 # Git Perspective
 
-The Git perspective aims at presenting a simplified interface for the most common git operations. It is built from tools that support Git client operations
+The Git perspective aims at presenting a simplified interface for the most common Git operations. It is built from tools that support Git client operations
 
 The Git perspective has three components:
   - Workspace menu - create and switch between different workspaces.
