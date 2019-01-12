@@ -62,5 +62,5 @@ You can choose to delete all folders recursively by checking the **Delete folder
 
 ### Search in folder
 
-Choose the folder you want to search in. Then, choose the **Search in folder** bar and type in a keyword. Dirigible will show you only the files which contain that keyword in their name.
+Choose the folder you want to search in. Then, choose the **Search in folder** bar and type in a keyword. As a result, Dirigible shows only the files which contain the keyword in their name.
 ![searched.png](https://i.imgur.com/D98GwEg.png)
