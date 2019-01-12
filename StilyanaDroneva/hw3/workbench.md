@@ -2,7 +2,7 @@
  This is the place where the user develops the dynamic applications. This perspective 
 contains all views and editors that may help in the overall implementation, from domain models via services to the user interface.
 
-![Workbench perspective](images/Ide_workbench_perspective.png)
+![Workbench perspective](Ide_workbench_perspective.png)
 
 The Workbench perspective is comprised of Workspace, Import, Properties, Console and Preview views, plus the editors registered for each
 file type. In other words, the minimal toolset for file management, preview and editing operations.  
@@ -15,7 +15,7 @@ The Workspace is the place where the developer creates and manages the applicati
 and files. Here the developer can change or create files or folders, as well as different projects.
 Various workspaces can be created and the user can switch between them.
   
-![Workbench perspective](images/Workspace_Overview.jpg)
+![Workbench perspective](Workspace_Overview.jpg)
   
 The developer can also:
   - create a new project or workspace
@@ -28,18 +28,18 @@ The developer can also:
 The IDE supports different editors and different types of files. The developer can easily see the structure of the folder and the containing
 files.
   
- ![Workbench perspective](images/Structure.png)
+ ![Workbench perspective](Structure.png)
   
 ### 2. Import
 This is the place where the user can upload a .zip file, which contains of one or more projects, to the selected workspace. There is a bar,
 showing the uploading process.
  
-![Workbench perspective](images/Import_view.png)
+![Workbench perspective](Import_view.png)
  
 ### 3. Properties
 In Properties view the developer can see some information about the files in the projects, e.g. name, path, type...  
 
-![Workbench perspective](images/Import_view.png)
+![Workbench perspective](Properties_view.png)
 
 ### 4. Console  
 A debugging tool, showing the output of the executed code. It has several log levels (Info, warning, error)
