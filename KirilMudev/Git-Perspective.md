@@ -9,6 +9,10 @@ The Git perspective has three components:
 
 ## Workspace menu
 
+You can select your Workspace from the dropdown menu.
+
+![select_workspace](images/workspace_view.png)
+
 ## Git view
 
 ### Clone repository
@@ -22,6 +26,7 @@ You need to specify the URL of the repository and your Git credentials - usernam
 ![specify_credentials](images/clone_creds.PNG)
 
 ### Pull changes
+
 You can pull changes for a specific project or for all projects.
 
 To pull a specific project, right click on the project and select "Pull" from the dropdown.
@@ -33,6 +38,7 @@ To pull all the projects, just click on the pull icon.
 ![pull_all_projects](images/pull_all_projects.PNG)
 
 ### Push commits
+
 You can push changes for a specific project or for all projects.
 
 To push a specific project, right click on the project and select "Push" from the dropdown.
