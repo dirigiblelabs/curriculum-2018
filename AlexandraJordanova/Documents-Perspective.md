@@ -14,7 +14,7 @@ You can open the Documents perspective by clicking the **Documents** icon.
 ### Create a folder
 
 To create a new folder, choose the folder you want to create it in. You can view the current folder here:
- ![folder-bar.png](https://i.imgur.com/Q3seNHi.png)
+ ![folder-bar.png](https://i.imgur.com/183zQEZ.png)
 
 After you've chosen a folder, choose the **New Folder** button. 
  ![new-folder.png](https://i.imgur.com/tdYA6oP.png)
