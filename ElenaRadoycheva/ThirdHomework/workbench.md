@@ -1,5 +1,6 @@
 # Workbench Perspective
 This is the place where the user develops the dynamic applications. This perspective contains all views and editors that may help in the overall implementation, from domain models via services to the user interface.
+
 ![Workbench](workbench.png)
 The Workbench perspective consists of:
 - ###	Workspace
@@ -12,6 +13,7 @@ The IDE supports multiple editors registered for different file types. The devel
 
 - ###	Import
 The import section allows the user to upload files of different formats or zip files containing one or more projects in the workspace.  There is a bar which shows the process of uploading  the selected files.
+
 ![Import](import.png)
 - ###	Properties
 In this section the user can see information (name,  path, type and content) for the file  they have chosen.
