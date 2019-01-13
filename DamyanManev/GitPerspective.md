@@ -31,13 +31,16 @@ Fill your credentials
 
 Click on ![push_all_icon.PNG](https://www.dropbox.com/s/sdonhfs4c9t6jrr/push_all_icon.PNG?dl=0&raw=1) icon
 
+![push_all_example.PNG](https://www.dropbox.com/s/tm4mp8105vfwxe0/push_all_example.PNG?dl=0&raw=1)
+
 Enter commit mesage, your credentials and you email. Click on *Push All*
 
 # Push single file or folder
 Open the context menu of a file/folder and click *Push*
+
 ![Push_file.png](https://www.dropbox.com/s/dhb90cwdaogq19o/Push_file.png?dl=0&raw=1)
 
-Enter commit mesage, your credentials and you email. Click on *Push All*
+Enter commit mesage, your credentials and you email. Click on *Push*
 
 # Refresh projects in workspace
 
