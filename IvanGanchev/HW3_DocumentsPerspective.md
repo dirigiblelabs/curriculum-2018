@@ -1,18 +1,18 @@
 # **Table of contents**
 
-- [**Documents Perspective**](#--documents-perspective--)
-* [Accessing the `Documents` view](#accessing-the--documents--view)
-+ [1. `Documents` section](#1--documents--section)
+- **Documents Perspective**
+* Accessing the `Documents` view
++ 1. `Documents` section
 - [1.1. Searching in folder](#11-searching-in-folder)
 - [1.2. Creating a new folder](#12-creating-a-new-folder)
 - [1.3. Downloading ZIP](#13-downloading-zip)
 - [1.4. Deleting items](#14-deleting-items)
-+ [2. `Upload files` section](#2--upload-files--section)
++ 2. `Upload files` section
 - [2.1. Drag and drop](#21-drag-and-drop)
 - [2.2. Choose files](#22-choose-files)
 - [2.3. Unpack ZIPs](#23-unpack-zips)
 - [2.4. Overwrite](#24-overwrite)
-+ [3. `Upload queue` section](#3--upload-queue--section)
++ 3. `Upload queue` section
 
 ---
 
