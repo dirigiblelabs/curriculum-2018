@@ -19,7 +19,7 @@ The BPMN Modeler enables the visual design of business processes. It is built on
 [*Flowable*][flowable], written in Java. The engine allows you to deploy BPMN 2.0 process specifications (an industry XML standard), create
 process instances, run queries, accessing active or historical process instances and related data, etc.
 
-<center><img src="./res/flowable_bpmn_overview.png" alt="Dirigible BPMN Modeler Template" width="400"/></center>
+<center><img src="./res/flowable_bpmn_overview.png" alt="Dirigible BPMN Modeler Template" width="1600"/></center>
 
 The BPMN layout includes the following panels and their respective functions:
 
@@ -127,7 +127,7 @@ For example, in the <i>Additional Work</i> user task they are no longer availabl
 You can easily render your BPs using [Mermaid][mermaid] in the browser.
 Starting from
 
-<center><img src="./res/test_molecule_bpmn.png" alt="Test Molecule BPMN spec" width="400"/></center>
+<center><img src="./res/test_molecule_bpmn.png" alt="Test Molecule BPMN spec" width="1600"/></center>
 
 and translating the [Transient variables](#transient-var) BPMN to [Mermaid][mermaid] flowchart, we end up with the following diagram:
 
