@@ -1,0 +1,44 @@
+<x:xmpmeta tsc:version="2.0.1" xmlns:x="adobe:ns:meta/" xmlns:tsc="http://www.techsmith.com/xmp/tsc/">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/" xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:tscDM="http://www.techsmith.com/xmp/tscDM/" xmlns:tscIQ="http://www.techsmith.com/xmp/tscIQ/" xmlns:tscHS="http://www.techsmith.com/xmp/tscHS/" xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#" xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#" xmlns:exif="http://ns.adobe.com/exif/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <rdf:Description dc:date="2018-12-14 11:38:53 " dc:source="Camtasia,18.0.7,enu" dc:title="SoftDoc_hw2" tscDM:firstFrame="SoftDoc_hw2_First_Frame.png" tscDM:originId="AD2C5737-2A7D-41CE-9407-1AB8A3650A55" tscDM:project="Untitled Project">
+         <xmpDM:duration xmpDM:scale="1/1000" xmpDM:value="59433"/>
+         <xmpDM:videoFrameSize stDim:unit="pixel" stDim:h="360" stDim:w="638"/>
+         <tsc:langName>
+            <rdf:Bag>
+               <rdf:li xml:lang="en-US">English</rdf:li></rdf:Bag>
+         </tsc:langName>
+         <xmpDM:Tracks>
+            <rdf:Bag>
+               <rdf:li>
+                  <rdf:Description xmpDM:trackType="Caption" xmpDM:frameRate="f1000" xmpDM:trackName="Captioning" stFnt:fontFamily="Arial" tscDM:fontSize="15" tscDM:bgOpacity="0.750000" tscDM:position="overlay">
+                     <xmpDM:markers>
+                        <rdf:Seq>
+                           <rdf:li><rdf:Description xmpDM:duration="9233" xmpDM:startTime="5967" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\rtf1 Right click on the project and select New &gt; Database Table. Name your file.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="3600" xmpDM:startTime="15200" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\rtf1 Double click to open it.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="3700" xmpDM:startTime="19200" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\rtf1 Name your table.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="2200" xmpDM:startTime="22900" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\rtf1 Choose the Update option to edit an attribute.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="11767" xmpDM:startTime="25100" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\rtf1 Update the attribute's name and click on Update to save the changes.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="3300" xmpDM:startTime="36867" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\rtf1 To add a new attribute, click on New.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="6067" xmpDM:startTime="40167" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\rtf1 Type in the attribute's name and choose its type (if it isn't already selected). \par Click Save to add it.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="1333" xmpDM:startTime="46233" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\rtf1 Save the made changes.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li><rdf:li><rdf:Description xmpDM:duration="2867" xmpDM:startTime="47567" tscDM:valign="bottom" tscDM:halign="center"><xmpDM:name><rdf:Alt><rdf:li xml:lang="en-US">{\rtf1 Save the made changes.}</rdf:li></rdf:Alt></xmpDM:name></rdf:Description></rdf:li></rdf:Seq>
+                     </xmpDM:markers>
+                     <tsc:fgColor xmpG:red="255" xmpG:green="255" xmpG:blue="255"/><tsc:bgColor xmpG:red="0" xmpG:green="0" xmpG:blue="0"/></rdf:Description>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpDM:Tracks>
+         <tscDM:controller>
+            <rdf:Description xmpDM:name="tscplayer">
+               <tscDM:parameters>
+                  <rdf:Bag>
+                     <rdf:li xmpDM:name="autohide" xmpDM:value="true"/><rdf:li xmpDM:name="autoplay" xmpDM:value="false"/><rdf:li xmpDM:name="loop" xmpDM:value="false"/><rdf:li xmpDM:name="searchable" xmpDM:value="true"/><rdf:li xmpDM:name="captionsenabled" xmpDM:value="false"/><rdf:li xmpDM:name="sidebarenabled" xmpDM:value="false"/><rdf:li xmpDM:name="unicodeenabled" xmpDM:value="false"/><rdf:li xmpDM:name="backgroundcolor" xmpDM:value="000000"/><rdf:li xmpDM:name="sidebarlocation" xmpDM:value="left"/><rdf:li xmpDM:name="endaction" xmpDM:value="stop"/><rdf:li xmpDM:name="endactionparam" xmpDM:value="true"/><rdf:li xmpDM:name="locale" xmpDM:value="en-US"/></rdf:Bag>
+               </tscDM:parameters>
+               <tscDM:controllerText>
+                  <rdf:Bag>
+                  </rdf:Bag>
+               </tscDM:controllerText>
+            </rdf:Description>
+         </tscDM:controller>
+         <tscDM:contentList>
+            <rdf:Description>
+               <tscDM:files>
+                  <rdf:Seq>
+                     <rdf:li xmpDM:name="0" xmpDM:value="SoftDoc_hw2.mp4"/><rdf:li xmpDM:name="1" xmpDM:value="SoftDoc_hw2_First_Frame.png"/><rdf:li xmpDM:name="2" xmpDM:value="SoftDoc_hw2_Thumbnails.png"/></rdf:Seq>
+               </tscDM:files>
+            </rdf:Description>
+         </tscDM:contentList>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
