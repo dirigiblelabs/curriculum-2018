@@ -6,11 +6,11 @@ The *Git* perspective aims at presenting a simplified interface for the most com
 
 # Clone repository
 
-First click on the ![clone_repo.png](https://www.dropbox.com/s/wmdvg0njnu9sdzy/clone_repo.png?dl=0&raw=1)  icon. 
+Click on the ![clone_repo.png](https://www.dropbox.com/s/wmdvg0njnu9sdzy/clone_repo.png?dl=0&raw=1)  icon. 
 
 ![clone_repo_example.PNG](https://www.dropbox.com/s/p2km959m4vxin55/clone_repo_example.PNG?dl=0&raw=1)
 
-Second fill the URL of the repository and your credentials and click *Clone*
+Fill the URL of the repository and your credentials and click *Clone*
 
 # Pull all projects in workspace
 
@@ -44,3 +44,5 @@ Enter commit mesage, your credentials and you email. Click on *Push All*
 Click on ![refresh_icon.PNG](https://www.dropbox.com/s/dqevhmrl8vq79el/refresh_icon.PNG?dl=0&raw=1) icon
 
 
+## References
+- http://www.dirigible.io/help/ide_perspective_git.html
