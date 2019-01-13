@@ -1,23 +1,3 @@
-## **Table of contents**
----
-- [Documents Perspective](#heading)
-* [Accessing the `Documents` view](#sub-heading)
-+ [`Documents` section](#sub-sub-heading)
-+ [Searching in folder](#sub-sub-sub-heading)
-+ [Creating a new folder](#sub-sub-sub-heading-1)
-+ [Downloading ZIP](#sub-sub-sub-heading-2)
-+ [ Deleting items](#sub-sub-sub-heading-3)
-+ [`Upload files` section](#sub-sub-heading-1)
-+ [Drag and drop](#sub-sub-sub-heading)
-+ [Choose files](#sub-sub-sub-heading)
-+ [Unpack ZIPs](#sub-sub-sub-heading)
-+ [Overwrite](#sub-sub-sub-heading)
-+ [`Upload queue` section](#sub-sub-heading-1)
-
----
-
-<!-- toc -->
-
 # **Documents Perspective**
 
 >The Documents perspective is the place where the user manages the binary artifacts such as pictures, spreadsheets, PDF files, etc. It enables him/her to upload, overwrite, download, delete and search for artifacts.
@@ -30,8 +10,6 @@ The `Documents` view is located in the side panel as shown below:
 
 
 Let's focus on what's going on in this screen:
-
----
 
 ---
 
@@ -64,8 +42,6 @@ This button deletes the selected item/items
 
 ---
 
----
-
 ### 2. `Upload files` section
 
 #### 2.1. Drag and drop
@@ -91,8 +67,6 @@ Allows you to unpack the ZIPs in the current folder
 ![doc_view.png](https://i.imgur.com/CwvebwO.jpg)
 
 Allows you to overwrite already existing files with the ones you are uploading
-
----
 
 ---
 
