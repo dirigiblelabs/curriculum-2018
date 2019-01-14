@@ -1,7 +1,10 @@
 ﻿## Database Perspective in Eclipse Dirigible
 
-The Database perspective contains tools for inspection and manipulation of the artifacts within the underlying relational database. The perspective contains Database, SQL, Console and Result views.
-
+The Database perspective contains tools for inspection and manipulation of the artifacts within the underlying relational database. The perspective contains:
+- Database view, 
+- SQL view, 
+- Console view, 
+- Result view.
 
   ![Alt](Perspective.jpg)
 
@@ -11,12 +14,12 @@ The Database view gives you direct access to the default target schema assigned 
  ![Alt](Database.jpg)
 
 ---
-The SQL view helps you to write a script to maintain with the schemas, create tables or request a queries.
+Writing a script to maintain the schemas happens in SQL view. To see the result from the queues, select Ctrl + X or Command + X for Mac.
 
 ![Alt](SQL.jpg)
 
 ---
-In the Console view you execute the SQL scripts.
+In the Console view you execute the SQL scripts. The most recent logs emerged on the top.
 
 ![Alt](Console.jpg)
 
