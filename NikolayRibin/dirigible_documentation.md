@@ -15,14 +15,20 @@ To create new workspace and import a \*.zip file, follow the steps:
 1. Open the Dirigible Web IDE in the workbench perspective.
 2. Click *New* > *Workspace*, enter name of the workspace in the box **Name** and click *Create workspace*.
 3. Go to *Import* tab.
+
 ![](https://github.com/dirigiblelabs/curriculum-2018/edit/master/NikolayRibin/import2.png)
+
 4. Choose the workspace in which you wish to import the file from the drop down menu **Workspaces**.
 	1. Choose \*.zip file for upload.
-		- Click *Browse*, choose the file you want to upload and click *Open*.
+		- Click *Browse*, choose the file you want to upload and click *Open*.		
 		![](https://github.com/dirigiblelabs/curriculum-2018/edit/master/NikolayRibin/import3.png)
 		- Choose the file you want to upload, drag and drop it on **Drop files here**.
 		![](https://github.com/dirigiblelabs/curriculum-2018/edit/master/NikolayRibin/import4.png)
+		
 	2. Click *Upload*. You can see your uploaded file status and progress.
+	
 	![](https://github.com/dirigiblelabs/curriculum-2018/edit/master/NikolayRibin/import5.png)
+	
 5. To import more files, repeat step 4. You can see *Queue length* depending on how many files you upload.
+
 ![](https://github.com/dirigiblelabs/curriculum-2018/edit/master/NikolayRibin/import6.png)
