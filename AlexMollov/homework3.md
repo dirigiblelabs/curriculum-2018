@@ -26,7 +26,7 @@ of projects.
 The artifacts i.e. the project management, can be done via the views and
 editors in the **Workbench Perspective**.
 
-![](Workspace.png)
+![workspace](workspace.png)
 
 ## **Import**
 
