@@ -1,4 +1,4 @@
-###### Repository Perspective
+# Repository Perspective
 
 The Repository perspective gives access to the raw structure of the Dirigible instance.  It is comprised of the following views:
 *	Repository
