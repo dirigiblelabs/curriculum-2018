@@ -35,25 +35,25 @@ one or more projects, to the selected Workspace. The view includes a
 progress bar for navigation of the process. The user can manage and
 switch between multiple workspaces through the **Workspace** menu.
 
-![](media/image2.png)
+![import](import.png)
 
 ## **Properties**
 
 The **Properties view** shows the name, path, type, content and label of
 a chosen file.
 
-![](media/image3.png)
+![Properties](Properties.png)
 
 ## **Console**
 
 The **Console view** is a major debugging tool. It displays the output
 of the code that you are executing.
 
-![](media/image4.png)
+![Console](Console.png)
 
 ## **Preview**
 
 The **Preview view** displays the result of executing the selected file.
 It refreshes automatically during **Workspace** change events e.g. Save.
 
-![](media/image5.png)
+![Preview](Preview.png)
