@@ -131,6 +131,8 @@ Starting from
 
 and translating the [Transient variables](#transient-var) BPMN to [Mermaid][mermaid] flowchart, we end up with the following diagram:
 
+<center><img src="./res/transient_variables.png" alt="Transient Variables BPMN" width="450" height="650"/></center>
+
 ```mermaid
 graph TD;
     A((Start))-->B(Fetch Data);
