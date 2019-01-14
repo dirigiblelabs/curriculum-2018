@@ -14,7 +14,7 @@ The Database view gives you direct access to the default target schema assigned 
  ![Alt](Database.jpg)
 
 ---
-Writing a script to maintain the schemas happens in SQL view. To see the result from the queues, select Ctrl + X or Command + X for Mac.
+Writing a script to maintain the schemas happens in SQL view. To see the result from the queries, select Ctrl + X or Command + X for Mac.
 
 ![Alt](SQL.jpg)
 
