@@ -15,8 +15,6 @@ explorer, a standard view on the projects in your workspace.
 
 ## **Workspace**
 
-![](media/image1.png)
-
 The **Workspace** is the place where developer creates and manages the
 application artifacts. The first-level citizens of the *workspace* are
 the *projects*. Each project can contain multiple folders and files
@@ -27,6 +25,8 @@ of projects.
 
 The artifacts i.e. the project management, can be done via the views and
 editors in the **Workbench Perspective**.
+
+![](media/image1.png)
 
 ## **Import**
 
